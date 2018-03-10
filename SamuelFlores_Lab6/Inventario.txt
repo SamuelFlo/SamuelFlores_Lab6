@@ -1,0 +1,1 @@
+comida;comi;212.0;12.0;dona;bebida;bebi;212.0;12.0;ca;ca;ca;
